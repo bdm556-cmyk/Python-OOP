@@ -1,0 +1,7 @@
+# Version 1
+- Created the project structure.
+- Added shared constants.
+- Added recipe and weekly plan models.
+- Added eight sample recipes.
+- Added CSV recipe loading.
+- Added recipe list display.
