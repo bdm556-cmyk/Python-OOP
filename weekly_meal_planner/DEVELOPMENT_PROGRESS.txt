@@ -5,3 +5,8 @@
 - Added eight sample recipes.
 - Added CSV recipe loading.
 - Added recipe list display.
+
+# Version 2
+- Added a console menu.
+- Added new recipe input.
+- Added CSV recipe saving.
