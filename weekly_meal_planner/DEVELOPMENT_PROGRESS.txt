@@ -10,3 +10,12 @@
 - Added a console menu.
 - Added new recipe input.
 - Added CSV recipe saving.
+
+# Version 3
+- Added the tkinter graphical interface.
+- Added recipe editing and deletion.
+- Added input validation and file recovery.
+- Added linear search and insertion sort.
+- Added recursive exact-name search.
+- Added the seven-day meal planner.
+- Added shopping list generation.
