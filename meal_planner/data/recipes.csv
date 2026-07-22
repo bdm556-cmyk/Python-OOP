@@ -1,9 +1,0 @@
-recipe_id,name,category,prep_time,servings,calories,ingredients
-R001,Banana Oatmeal,Breakfast,10,1,350,Oats;Milk;Banana;Honey
-R002,Greek Yogurt Bowl,Breakfast,5,1,280,Greek yogurt;Mixed berries;Granola
-R003,Chicken Salad,Lunch,20,2,420,Chicken breast;Lettuce;Tomato;Olive oil
-R004,Tuna Pasta,Lunch,25,2,510,Pasta;Tuna;Sweetcorn;Mayonnaise
-R005,Vegetable Stir Fry,Dinner,30,2,460,Rice;Mixed vegetables;Soy sauce;Garlic
-R006,Chicken Rice Bowl,Dinner,35,2,620,Chicken breast;Rice;Broccoli;Soy sauce
-R007,Tomato Pasta,Dinner,25,2,540,Pasta;Chopped tomatoes;Onion;Garlic
-R008,Egg Fried Rice,Dinner,20,2,500,Rice;Egg;Peas;Soy sauce
